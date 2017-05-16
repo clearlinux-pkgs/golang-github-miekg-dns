@@ -4,7 +4,7 @@
 #
 Name     : golang-github-miekg-dns
 Version  : c9d1302d540edfb97d9ecbfe90b4fb515088630b
-Release  : 4
+Release  : 5
 URL      : https://github.com/miekg/dns/archive/c9d1302d540edfb97d9ecbfe90b4fb515088630b.tar.gz
 Source0  : https://github.com/miekg/dns/archive/c9d1302d540edfb97d9ecbfe90b4fb515088630b.tar.gz
 Summary  : No detailed summary available
